@@ -104,7 +104,7 @@
     <string name="version">الإصدار</string>
     <string name="version_code">رمز الإصدار</string>
     <string name="github">Github</string>
-    <string name="github_desc">ضع نجمة في جيتهب🤩</string>
+    <string name="github_desc">ضع نجمة في جيتهاب🤩</string>
     <string name="telegram">مجموعة التيليجرام</string>
     <string name="telegram_desc">الإبلاغ عن المشكلات وطلب الميزات وما إلى ذلك.</string>
     <string name="git_commit">تجزئة الكوميت Git</string>
